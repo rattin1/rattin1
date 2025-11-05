@@ -1,10 +1,15 @@
-<body>
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/20039caa-d5e9-47a8-aaf9-6ff40b06d12f" /><body>
         <header>
                 <div align="center">
-                        <h2>🙀hello Everyone , fine tnk u💪<h2>
+                        <h2>🙀hello Everyonyan , fine tnk u💪<h2>
         </header>
 
 <div>
+       <img
+        align="left"
+        src="https://i.ytimg.com/vi/weA3U-OnCsY/hqdefault.jpg"
+      />
+        
         <h3>quem sou eu?</h3>
         <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h4>
 </div>
