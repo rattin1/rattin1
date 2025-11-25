@@ -7,13 +7,21 @@
   <img src="https://media1.tenor.com/m/Eca9YVzTi5kAAAAC/smiling-friends-hello-daddies.gif" width="50%" alt="Header Animation"/>
 </p>
 
+<div align="center">
+  
+[![@Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raattini/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+]([https://www.linkedin.com/in/joaquimguisramos/](https://br.linkedin.com/in/ryan-rattini-ribeiro-80582b2b3))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rattini332@gmail.com)
+
+</div>
 ---
 
 <!-- ============================== SOBRE MIM ============================== -->
 ## 👋 Sobre mim
 
 ✨ Olá! Sou Ryan, apaixonado por tecnologia, desenvolvimento de software e criação de soluções que fazem a diferença.  
-Gosto de trabalhar com Design principalmente e atualmente curso Desenvolvimento de Sistemas no SENAi.
+Gosto de trabalhar com FrontEnd principalmente e atualmente curso Desenvolvimento de Sistemas no SENAi.
 
 - 🔭 Trabalhando em: EnerCheck
 - 💬 Pergunte-me sobre: The Big Bang Theory
@@ -33,22 +41,22 @@ Gosto de trabalhar com Design principalmente e atualmente curso Desenvolvimento 
 
 ### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,rust,go" />
+  <img src="https://skillicons.dev/icons?i=js,cs,cpp,css,html" />
 </p>
 
 ### 🛠️ Frameworks & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,laravel,django,spring,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,notion,dotnet,figma,ai,canva" />
 </p>
 
 ### 🗄️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
 ### ☁️ DevOps & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,linux" />
 </p>
 
 ---
@@ -57,12 +65,12 @@ Gosto de trabalhar com Design principalmente e atualmente curso Desenvolvimento 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rattin1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rattin1&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSER&theme=tokyonight" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=rattin1&theme=tokyonight" height="180em" />
 </div>
 
 ---
@@ -91,7 +99,7 @@ Gosto de trabalhar com Design principalmente e atualmente curso Desenvolvimento 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Love-JavaScript-yellow?style=for-the-badge&logo=javascript" />
 </p>
 
@@ -103,8 +111,10 @@ Gosto de trabalhar com Design principalmente e atualmente curso Desenvolvimento 
 ```mermaid
 timeline
     title Minha Jornada na Programação
-    2024 : Comecei a programar 🎉
+    2024 : Comecei a programar 💅
     2024 : Primeiro site no ar 🌍
     ---- : Entrei no mercado de trabalho 💼
     ---- : Grandes projetos e evolução 🚀
-    Me ajude a progredir em minha jornada!
+```
+
+## Me ajude a progredir em minha jornada!
