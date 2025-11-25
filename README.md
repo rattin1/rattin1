@@ -82,15 +82,7 @@ Gosto de trabalhar com FrontEnd principalmente e atualmente curso Desenvolviment
 > Descrição breve, bonita e impactante.
   
 🔗 **Demo:** https://  
-📦 **Repositório:** https://  
-
----
-
-### ⭐ Projeto 2 — **Nome do Projeto**
-> Fale como se fosse um pitch de startup 😄
-
-🔗 **Demo:** https://  
-📦 **Repositório:** https://  
+📦 **Repositório:** https://github.com/Brun0HM/EnerCheckPrincipal
 
 ---
 
@@ -117,4 +109,4 @@ timeline
     ---- : Grandes projetos e evolução 🚀
 ```
 
-## Me ajude a progredir em minha jornada!
+## Me ajude a progredir em minha jornada! 🙏
